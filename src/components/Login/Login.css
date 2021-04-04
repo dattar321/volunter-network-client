@@ -1,0 +1,15 @@
+.logoimg{
+    margin: 50px;
+}
+.login-box{
+    margin: auto;
+    width: 30%;
+    height: 300px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px lightgrey;
+    padding: 10px;
+}
+.google-login{
+    width: 250px;
+    border-radius: 25px;
+} 

@@ -1,0 +1,14 @@
+event-card{
+    margin-top: 10px;
+}
+.event-card:hover{
+    border: 5px solid rgb(173, 221, 187);
+    border-radius: 5px;
+    cursor: pointer;
+}
+.user-card{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px lightgrey;
+}

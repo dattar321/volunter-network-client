@@ -1,0 +1,19 @@
+.home-body{
+    margin:10px;
+}
+.search-box{
+    width:500px;
+    height: 35px;
+}
+.upp{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+event-card{
+    margin-top: 10px;
+}
+.event-card:hover{
+    border: 5px solid rgb(173, 221, 187);
+    border-radius: 5px;
+    cursor: pointer;
+}

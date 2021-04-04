@@ -1,0 +1,20 @@
+.class-input{
+    width: 80%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding: 5px;
+    margin:5px;
+}
+.login-box{
+    margin: auto;
+    width: 30%;
+    height: 450px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px lightgrey;
+    padding: 10px;
+}
+.btn-register{
+    margin-top: 20px;
+    width: 70%;
+}
